@@ -1,0 +1,531 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6ea1360ae81684f40a07f4344d744e36
+  m_SerializeEntries:
+  - m_GUID: e7350b1515d0e2d418e77380a02475c8
+    m_Address: LobbyBGM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfc5803fa8fa8924bbeaa34f4f689bb1
+    m_Address: Click
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6473f5264a14804e992a7a4a29cd744
+    m_Address: Popup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72f526a6a9890f643a88e85a61c86c8a
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Footstep_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85016e0f2b01da248b9663dd49a161b0
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Footstep_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 186de84b3207156479abe98f4958fed0
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Footstep_03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a91fcd19acf1e54bba0945d9f390849
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Footstep_04.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14e8a8d2158bec840b56c54f5266e692
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Footstep_05.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29841e7d5bbfb5b419c9ad16ca8bc4c1
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Footstep_06.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd1af302b8902684d9381de1f2d3a5af
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Footstep_07.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67c8b33e424ccdc4486edf538ab91c5a
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Footstep_08.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 274649b0e221539409070ebf6c18918b
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Footstep_09.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3194b8bbc96ef84fab1f98f4b7dae3e
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Footstep_10.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff697d3070687ce4583faa0561a145a2
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/Player_Land.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6a071b9f748d0641a911042e60cc317
+    m_Address: Assets/3.Artworks/Models/DroneBot/Demo_Table_Animations/Sounds/robo44_fire.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38dc9afb12a50554fbec3d93deefffdb
+    m_Address: Assets/3.Artworks/Models/DroneBot/Demo_Table_Animations/Sounds/bum.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92bc634a950bde046a12ff66b131ec1f
+    m_Address: Assets/3.Artworks/Models/DroneBot/Demo_Table_Animations/Sounds/tankDead.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76a98cc2b67b225468ff64d806ac3fa7
+    m_Address: Assets/3.Artworks/Models/DroneBot/Demo_Table_Animations/Sounds/signal3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ffbb56cc904a1e49bb41a47f68f4dbb
+    m_Address: Assets/3.Artworks/Models/DroneBot/Demo_Table_Animations/Sounds/ExplosionSound.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7736ebd0e468eb843a27e996b7c014a1
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/8Pistol/Shot_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00d6c854d736b274692325c410bbdcc7
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/8Pistol/Shot_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57be9f76b7fd1914fbb8a53e7ad41c53
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/8Pistol/Shot_4.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5352c7bdf44b11141ba87d35e6e5a45a
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/8Pistol/Reload_Full.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc988050393583047ad560d1ce931d72
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/1Assault_Rifle_Set/Reload.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8018acccaecddce498259f8e5a93b440
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/1Assault_Rifle_Set/Rifle_Shot_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fac002407092764e8936cb3d0387616
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/1Assault_Rifle_Set/Rifle_Shot_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73e3ceb9aff1022448528283abfd07c3
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/1Assault_Rifle_Set/Rifle_Shot_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e47e6a3fc7e2a81459f76244208a1cd5
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/3Grenade_Gun_Set/GL_pomp_bar_full
+      shot.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aeb5e01a260114f4391089be7ca23888
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/3Grenade_Gun_Set/Reload_Full.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16acfd4307f02824a80916f7a51dfc0a
+    m_Address: Stage1_Started
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48d3584653e323a449da569820ea4ef1
+    m_Address: Assets/3.Artworks/Sounds/BGM/Stage1/Stage1_Battle.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f85e9082576a78c49bc46da567812a60
+    m_Address: Assets/3.Artworks/Sounds/Sci-Fi Mechanical Doors SFX/Doors/Wav_DoorOpen15.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92eb825a158d55a46bb2fe8d07054c22
+    m_Address: Assets/3.Artworks/Sounds/Sci-Fi Mechanical Doors SFX/Doors/DoorClose.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e3826e0c6f7a7146882326f4450134a
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/silenced-gunshot-81063.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff1f80a0c12886d4d80ba2d83496c792
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/4Grenade_Set/grenade-explosion-14-190266.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ac2cf7c78b159a4480540d5d5310c1d
+    m_Address: Assets/3.Artworks/Sounds/Weapons/DryFire/dry-fire-364846.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e476896751d3e174d96299fba25c6636
+    m_Address: Assets/3.Artworks/Sounds/Weapons/DryFire/gun-dry-firing-13-96416.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 228240e085a68c94e8c2cf1fc8bedd34
+    m_Address: Assets/3.Artworks/Sounds/Weapons/DryFire/gun-dry-firing-6-39793.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6373df3ffd9eb147ab66328341194ca
+    m_Address: Assets/3.Artworks/Sounds/Weapons/DryFire/gun-dry-firing-3-39820.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a09f8abe4f83d45409f2a17de3970ba3
+    m_Address: Assets/3.Artworks/Sounds/Weapons/DryFire/gun-dry-firing-1-96426.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d74507f933fb5df42ad94455fdee860f
+    m_Address: Assets/3.Artworks/Sounds/Weapons/DryFire/22-rifle-dryfiring-87480.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03ba1ca2188999f40b8d956637c1bb2e
+    m_Address: Assets/3.Artworks/Models/Sci-fi Shebot/Sound/plasma_gun_fire_Rifle.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6834034a0021e244d96d6fe0d560fbd4
+    m_Address: Assets/3.Artworks/Models/Sci-fi Shebot/Sound/plasma-gun-fire-immediately_VEED.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf78ea20244bfbe41bc5addea70d44ec
+    m_Address: Assets/3.Artworks/Models/Sci-fi Shebot/Sound/plasma-gun-fire-162136.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f72188538fd5e5f4cb32049fd47dfdc0
+    m_Address: Assets/3.Artworks/Models/Sci-fi Shebot/Sound/SwordSoundEffect_StrongAttack.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc7ef3bcf9ba2bd43ad104eee82a185d
+    m_Address: Assets/3.Artworks/Models/Sci-fi Shebot/Sound/ShebotFootStepSound.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96cb705f7dd03f34087468616335c469
+    m_Address: Assets/3.Artworks/Models/Sci-fi Shebot/Sound/ShebotSword_ShieldOn.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba3d3b53eb8751042bc151eff810e4f6
+    m_Address: Assets/3.Artworks/Sounds/Dog Sfx/Dog_Bark.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e2c2d7e14bb0de4b996325b0335de9f
+    m_Address: Assets/3.Artworks/Sounds/Dog Sfx/Dog_Alerted.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f3ae9f88b1dd5d4d8892f11a17d0957
+    m_Address: Assets/3.Artworks/Sounds/BGM/Stage2/stage2_DefaultMusic.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3446c9054d41c8348a0c156bc3f07b8b
+    m_Address: Assets/3.Artworks/Sounds/BGM/Stage2/BattleStage2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 607e994442e3c4b4690ad1106a96ba76
+    m_Address: Assets/3.Artworks/Sounds/Map Sfx/GarageDoor/GarageDoorSound.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5693fed405509e848b0b55568ab65ece
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/11Sniper_Rifle_Set/Sniper_Rifle_Shot_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01940605c84c7b742b521b75a01a8b9a
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/11Sniper_Rifle_Set/Sniper_Rifle_Shot_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3a989eaf5b21a6428f44f9d476fd98b
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/11Sniper_Rifle_Set/Sniper_Rifle_Shot_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e98ddd784c40c0f47920c83806aeebaa
+    m_Address: Assets/3.Artworks/Models/Hands_Weapons_Animations_Pack_Update/Sounds/11Sniper_Rifle_Set/Reload_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f7611a21940439408f734fc06e7ebed
+    m_Address: Assets/3.Artworks/Sounds/BGM/Stage2/IntroStage2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d7b6e2bdbb31c74bb8a157c464859ee
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/headshot_hit_sound.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb9b06ce3517a6446bab8b13f55d1f94
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/heavy-grunt-6969.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc8506344db958a48943cb2fc0c941e3
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/grunt-85990.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20c82fbaac7da344aab57aea45dad6be
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/bottle-break-39916.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd3654f775acdc741869764a9a18e22b
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/bottle-shattering-105398.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb515fb40843b46438882579d975afe8
+    m_Address: Assets/3.Artworks/Sounds/Player Sfx/glass-shatter-3-100155.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ce829a5e4e37e94ca7d54bb871ee1e4
+    m_Address: Type
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ea11a2d13d536e4e8441a0f5895995c
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 203ac8b6f07070e4f93f1c1a6fff06c3
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac6649006dbee9e4685752e124111da7
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f42914d98b070f741b2feee96a2988ee
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_04.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feb62160ad1f8334ab037017b843d162
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_05.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 001f691d110d55648871a03f446ffa08
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_06.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6478d7fb30f301b4fa8f74d5d1dad094
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_07.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1547ad8fbfa4f24d83e5a445aee860d
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_08.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47832b56ccba5bc408b1d5aac1871746
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_09.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d132da7af60f1145a3deb6a8bc42a08
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_10.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7131d701ae015a54aa3d856feccd513f
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Land/Footsteps_DirtyGround_Jump_Land_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 942019cf9ecd5854ebeb343b12b7f779
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Land/Footsteps_DirtyGround_Jump_Land_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a88f429c4a7b734f9c4254f0c654cea
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Land/Footsteps_DirtyGround_Jump_Land_03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5b9a63e11f3a8b4a8fef1eb139cc786
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ebaaf27aa23a0446b8fd874d60909e5
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab66dccbdeb63b5449db73ad92f21711
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2d0936410eda534bb65c5f1794cb663
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_04.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2b2858ce5c7ca9428bfd0e424d5a82d
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_05.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 644dc4517bc1c9c40bf1e80d0b048f5b
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_06.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48470fafc45f3c04792793e1005e62e9
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_07.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 403d45f89131a5a4f9afe643ccbf4f18
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_08.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9535c599feb8b7a4990789aebab305e4
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_09.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6da35e1befe0014da25418951455674
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_10.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c85c1193002215499b462f763701072
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_11.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b7628f8c05047a4fbef52fe3ed4729d
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_12.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65507879ee055e648b1de3581c284cca
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_13.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a2c7093236272043805ca942d893d01
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_14.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e0fe368d9a158a46b0fe96e660e78cc
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Walk/Footsteps_MetalV2_Walk_15.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e94f3d51023c5446b59f52c71e0cade
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Land_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0462feb393ce2b64b9f78c8bc9303014
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Land_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4ce8205a3ae9ab4181dbc190b1a837e
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Land_03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f4bb31f06728be4ba0bed5c2641896c
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Start_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 293f9cc4ac64b3b4cb6f57d953bca997
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Start_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6709cc34e1daa54f9d575a452e0f64e
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Start_03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 665f92bb69e46a94a8caf3717dbb0d5e
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Land/Footsteps_DirtyGround_Jump_Start_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8802544ed0324a14095edc70ab3bbab1
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Land/Footsteps_DirtyGround_Jump_Start_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65d9836027675574b8d070c5718f99c7
+    m_Address: Assets/3.Artworks/Sounds/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Land/Footsteps_DirtyGround_Jump_Start_03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7667d1b5b9d9e3342b6122c6f131c22d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 646fede312993c54ba0740ed01581a9e, type: 2}
+    - {fileID: 11400000, guid: ec274b76da385a44fae86de5f1628c45, type: 2}

@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Dialogue_Stage2_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6683f4f20c1ae9641a55a23e055ddf36, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 78964797440
+    m_Localized: According to our scans, we have detected enemy signals along the
+      path you are heading.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740480
+    m_Localized: "However, with my current sensors, I\u2019m unable to pinpoint their
+      exact location."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740481
+    m_Localized: "Based on your current position, there\u2019s a 99% chance that
+      a sniper is nearby."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740482
+    m_Localized: Please be prepared for a possible sniper attack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740483
+    m_Localized: The sniper is likely positioned to the left or right of the rails,
+      or on top of a building.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740484
+    m_Localized: Multiple enemy signals detected ahead.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740485
+    m_Localized: Prepare for combat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740486
+    m_Localized: In the latter part of the war between humans and AI, humanity evacuated
+      the civilians to safe zones.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740487
+    m_Localized: This city is one of those evacuation sites.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740488
+    m_Localized: "We don\u2019t enter human cities."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740489
+    m_Localized: Sharaku keeps human cities as symbols of victory and enjoys the
+      fleeting nature of humanity.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740490
+    m_Localized: "Our faction, Luash, sees human cities as reminders of humanity\u2019s
+      darkness."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740491
+    m_Localized: "There\u2019s no reason to do so, and it\u2019s not efficient."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740492
+    m_Localized: It would also be irrational.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740493
+    m_Localized: Enemy signals detected ahead.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740494
+    m_Localized: "The battlefield up ahead is short and has little cover. The fight
+      will be tough, but you\u2019ll be able to escape the city quickly."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740495
+    m_Localized: "On the other hand, if you go left and take the detour, the path
+      is longer but offers more cover, so the battle won\u2019t be as difficult."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740496
+    m_Localized: Understood. I will recalculate your route. That is a wise decision.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740497
+    m_Localized: "Understood. As expected, I still can\u2019t fully comprehend humanity\u2019s
+      belligerence."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740498
+    m_Localized: Still, I wish you luck.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740499
+    m_Localized: Small enemy squad approaching from the front!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740500
+    m_Localized: Small enemy squad approaching from the right!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740501
+    m_Localized: No more enemy signals detected.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740502
+    m_Localized: Good job, human.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740503
+    m_Localized: Understood. Well done, Ayla.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740504
+    m_Localized: The rail is broken... Can I get down from here?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740505
+    m_Localized: What happened in this city...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740506
+    m_Localized: But there are no signs of battle here, and it seems too old...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740507
+    m_Localized: You could have destroyed them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740508
+    m_Localized: My name is Ayla. Call me by my name from now on.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433542071103488
+    m_Localized: There is an item at the far left after you descend. I recommend
+      checking the area and taking it with you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433760875360256
+    m_Localized: What is this...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433837236858880
+    m_Localized: "It\u2019s a weapon part. If you collect enough, you can modify
+      your weapons later, so I recommend gathering them."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1434101440262144
+    m_Localized: Entering the Garage allows you to upgrade your weapons in the Weapon
+      Modification Room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1434103424167936
+    m_Localized: "Let\u2019s head to the Weapon Modification Room."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

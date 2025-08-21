@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a273edb0851a5c4ab08df9b7fb62ce5, type: 3}
+  m_Name: GarageEnter
+  m_EditorClassIdentifier: 
+  dialogueKey: 23
+  sequence:
+  - Speaker: '[SYSTEM]'
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 1434101440262144
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 0
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 1416865031860224
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Speaker: '[SYSTEM]'
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 1434103424167936
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 0
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 1416903732703232
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  references:
+    version: 2
+    RefIds: []

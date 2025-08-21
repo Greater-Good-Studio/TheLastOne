@@ -1,0 +1,521 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: New Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: New Table
+  m_TableCollectionNameGuidString: e18931246adbaf244ab24e4f9808ce0b
+  m_Entries:
+  - m_Id: 126016499712
+    m_Key: PressText_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025664
+    m_Key: Continue_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025665
+    m_Key: EXIT_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025666
+    m_Key: EXITCONFIRM_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025667
+    m_Key: Home_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025668
+    m_Key: Setting_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025669
+    m_Key: NewGame_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025670
+    m_Key: LoadGame_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025671
+    m_Key: NewGameDescription_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025672
+    m_Key: LoadGameDescription_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025673
+    m_Key: GAMEPLAY_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025674
+    m_Key: AUDIO_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025675
+    m_Key: CONTROLS_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025676
+    m_Key: VISUALS_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025677
+    m_Key: GENERAL_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025678
+    m_Key: MASTER_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025679
+    m_Key: BGM_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025680
+    m_Key: SFX_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025681
+    m_Key: CONTROLLER_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025682
+    m_Key: KEY BINDINGS_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025683
+    m_Key: Language_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025684
+    m_Key: Look sensitivity_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025685
+    m_Key: Aim sensitivity_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025686
+    m_Key: Walk_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025687
+    m_Key: Run_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025688
+    m_Key: Jump_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025689
+    m_Key: Crouch_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025690
+    m_Key: Use_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025691
+    m_Key: Interact_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025692
+    m_Key: Reload_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025693
+    m_Key: DISPLAY_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025694
+    m_Key: Resolution_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025695
+    m_Key: Window mode_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025696
+    m_Key: GO AHEAD_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025697
+    m_Key: CANCEL_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025698
+    m_Key: LoadingText_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025699
+    m_Key: NewConfirm_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025700
+    m_Key: Press_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025701
+    m_Key: TO INTERACT_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025702
+    m_Key: Resume_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025703
+    m_Key: Load Last Checkpoint_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025704
+    m_Key: Exit to Main Menu_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025705
+    m_Key: PREV PAGE_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025706
+    m_Key: Next Page_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025707
+    m_Key: CLOSE_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025708
+    m_Key: weapon_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025709
+    m_Key: DAMAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025710
+    m_Key: RPM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025711
+    m_Key: RECOIL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025712
+    m_Key: WEIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025713
+    m_Key: AMMO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025714
+    m_Key: Rifle_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025715
+    m_Key: Pistol_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025716
+    m_Key: GrenadeLauncher_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025717
+    m_Key: HackGun_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025718
+    m_Key: SniperRifle_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025719
+    m_Key: Rifle_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025720
+    m_Key: Pistol_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025721
+    m_Key: GrenadeLauncher_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025722
+    m_Key: HackGun_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025723
+    m_Key: SniperRifle_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025724
+    m_Key: DECEASED_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025725
+    m_Key: Required
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176911861624832
+    m_Key: PrevWeapon_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176914520813568
+    m_Key: NextWeapon_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176985270333440
+    m_Key: Apply_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177425689030656
+    m_Key: ApplyConfirm_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181144010829824
+    m_Key: Require_SelectWeapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181145441087488
+    m_Key: Require_ForgeAvailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181147085254656
+    m_Key: Require_ForgeUnavailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181148578426880
+    m_Key: Require_ModificationUnavailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181150121930752
+    m_Key: Require_SelectAvailablePart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181151552188416
+    m_Key: Require_Available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181153267658752
+    m_Key: Require_Unavailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181156547604480
+    m_Key: Require_NoPartDataFound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292659791605760
+    m_Key: Help_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302760715825152
+    m_Key: Sight_GrenadeLauncher1_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302762196414464
+    m_Key: Sight_GrenadeLauncher1_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302779330146304
+    m_Key: ExtendedMag_HackGun_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302780143841280
+    m_Key: ExtendedMag_HackGun_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303501018869760
+    m_Key: FA_HackGun1_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303502012919808
+    m_Key: FA_HackGun1_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303621114376192
+    m_Key: Sight_HackGun2_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303621768687616
+    m_Key: Sight_HackGun2_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303727414816768
+    m_Key: ExtendedMag_Pistol1_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303728148819968
+    m_Key: ExtendedMag_Pistol1_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303765402628096
+    m_Key: Sight_Pistol1_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303766329569280
+    m_Key: Sight_Pistol1_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303768409944064
+    m_Key: Silencer_Pistol1_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303770452570112
+    m_Key: Silencer_Pistol1_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304183834783744
+    m_Key: ExtendedMag_Rifle_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304185537671168
+    m_Key: ExtendedMag_Rifle_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304306367180800
+    m_Key: FA_Rifle1_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304307084406784
+    m_Key: FA_Rifle1_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304313061289984
+    m_Key: Sight_Rifle1_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304313795293184
+    m_Key: Sight_Rifle1_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304588413153280
+    m_Key: Sight_Rifle2_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304589990211584
+    m_Key: Sight_Rifle2_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304714502320128
+    m_Key: Silencer_Rifle1_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304716066795520
+    m_Key: Silencer_Rifle1_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304873508384768
+    m_Key: Suppressor_Rifle1_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304876595392512
+    m_Key: Suppressor_Rifle1_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321893213876224
+    m_Key: EnergyBar_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321904429445120
+    m_Key: EnergyBar_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322184105635840
+    m_Key: Medkit_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322186706104320
+    m_Key: Medkit_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322264283951104
+    m_Key: NanoAmple_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322264934068224
+    m_Key: NanoAmple_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322342222508032
+    m_Key: Sheild_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322343753428992
+    m_Key: Sheild_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322785908568064
+    m_Key: FailSelect_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322787514986496
+    m_Key: FailUse_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588253818990592
+    m_Key: TOSTART_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588998026932224
+    m_Key: TIME REMANING_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 590260357246976
+    m_Key: Equip_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 590262378901504
+    m_Key: Unequip_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 590263947571200
+    m_Key: Tutorial1_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1618931255816192
+    m_Key: Tutorial2_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1619004781965312
+    m_Key: Tutorial3_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1666052940050432
+    m_Key: Look Sensitivity Horizontal_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1666054718435328
+    m_Key: Look Sensitivity Vertical_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1666072598753280
+    m_Key: Aim Sensitivity Horizontal_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1666074167422976
+    m_Key: Aim Sensitivity Vertical_Key
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5259115984066445421
+  references:
+    version: 2
+    RefIds:
+    - rid: 5259115984066445421
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1754484255054

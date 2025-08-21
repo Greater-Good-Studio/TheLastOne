@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Dialogue_Stage2 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Dialogue_Stage2
+  m_TableCollectionNameGuidString: 6683f4f20c1ae9641a55a23e055ddf36
+  m_Entries:
+  - m_Id: 78964797440
+    m_Key: AI2_001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740480
+    m_Key: AI2_002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740481
+    m_Key: AI2_003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740482
+    m_Key: AI2_004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740483
+    m_Key: AI2_005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740484
+    m_Key: AI2_006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740485
+    m_Key: AI2_007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740486
+    m_Key: AI2_008
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740487
+    m_Key: AI2_009
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740488
+    m_Key: AI2_010
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740489
+    m_Key: AI2_011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740490
+    m_Key: AI2_012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740491
+    m_Key: AI2_013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740492
+    m_Key: AI2_014
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740493
+    m_Key: AI2_015
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740494
+    m_Key: AI2_016
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740495
+    m_Key: AI2_017
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740496
+    m_Key: AI2_018
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740497
+    m_Key: AI2_019
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740498
+    m_Key: AI2_020
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740499
+    m_Key: AI2_021
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740500
+    m_Key: AI2_022
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740501
+    m_Key: AI2_023
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740502
+    m_Key: AI2_024
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740503
+    m_Key: AI2_025
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740504
+    m_Key: Pl_001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740505
+    m_Key: Pl_002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740506
+    m_Key: Pl_003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740507
+    m_Key: Pl_004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79006740508
+    m_Key: Pl_005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433542071103488
+    m_Key: AI2_026
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433760875360256
+    m_Key: Pl_006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433837236858880
+    m_Key: AI2_027
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1434101440262144
+    m_Key: AI2_028
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1434103424167936
+    m_Key: AI2_029
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5259116006397968418
+  references:
+    version: 2
+    RefIds:
+    - rid: 5259116006397968418
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1754523458198
