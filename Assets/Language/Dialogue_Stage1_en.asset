@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Dialogue_Stage1_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: deb2bb0d2b2b43b4b9c910531c46cfed, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 88456507392
+    m_Localized: 'Enemy forces have infiltrated the facility, and drones have entered
+      an aggressive state.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450432
+    m_Localized: Weapons are available in this room. It is recommended that you equip
+      yourself.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450433
+    m_Localized: Available weapons include an assault rifle, EMP grenade launcher,
+      handgun, and hacking gun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450434
+    m_Localized: Prolonged cryosleep has resulted in a significant decrease in your
+      physical health. The use of a nano-heal ampoule is advised.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450435
+    m_Localized: Locating the nearest nano-heal ampoule. I will guide you to the
+      closest location.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450436
+    m_Localized: The path you need to follow is marked on the facility floor with
+      a laser via your suit's system.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450437
+    m_Localized: 'Disengaging the facility door lockdown.
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450438
+    m_Localized: Hostile entities are currently present within the facility. Caution
+      is advised.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450439
+    m_Localized: Due to power loss, only minimal lighting is being maintained.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450440
+    m_Localized: 'Warning: Health level has dropped below 10. Please use medical
+      supplies immediately.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450441
+    m_Localized: Guiding you to the next area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450442
+    m_Localized: A hackable entity is currently present. The use of the hacking gun
+      is recommended.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450443
+    m_Localized: The external entrance to the facility has been sealed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450444
+    m_Localized: To lift the external entrance lockdown, you must manually operate
+      three panels within the facility.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450445
+    m_Localized: 'Warning: Security protocols have been activated on the panel. Access
+      is currently restricted.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450446
+    m_Localized: 'Warning: Multiple enemy signals detected.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450447
+    m_Localized: An EMP grenade launcher equipped with EMP rounds is available. Active
+      use is recommended.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450448
+    m_Localized: The lockdown in the storage area has been lifted.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450449
+    m_Localized: The outer gate locking mechanism has been disengaged.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450450
+    m_Localized: However, to fully open the outer gate, you must manually operate
+      the release mechanism inside the storage area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450451
+    m_Localized: Providing route guidance to the storage area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450452
+    m_Localized: The lockdown at the facility entrance has been lifted.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450453
+    m_Localized: Multiple hostile entities have been detected in the outer area of
+      the facility.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450454
+    m_Localized: Situation resolved.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450455
+    m_Localized: Scan complete. No hostile entities detected inside the facility.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450456
+    m_Localized: "Opening the facility\u2019s outer gate."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450457
+    m_Localized: Hackin Succeed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88498450458
+    m_Localized: '[Alarm][Alarm][Alarm][Alarm][Alarm][Alarm][Alarm]....'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

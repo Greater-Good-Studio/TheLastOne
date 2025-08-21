@@ -1,0 +1,532 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: New Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e18931246adbaf244ab24e4f9808ce0b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 126016499712
+    m_Localized: PRESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025664
+    m_Localized: TO CONTINUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025665
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025666
+    m_Localized: ARE YOU SURE YOU WANT TO EXIT?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025667
+    m_Localized: HOME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025668
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025669
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025670
+    m_Localized: LOAD GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025671
+    m_Localized: Start New Story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025672
+    m_Localized: Continue Your Journey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025673
+    m_Localized: GAMEPLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025674
+    m_Localized: AUDIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025675
+    m_Localized: CONTROLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025676
+    m_Localized: VISUALS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025677
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025678
+    m_Localized: Master volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025679
+    m_Localized: Music volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025680
+    m_Localized: SFX volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025681
+    m_Localized: CONTROLLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025682
+    m_Localized: KEY BINDINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025683
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025684
+    m_Localized: Look sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025685
+    m_Localized: Aim sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025686
+    m_Localized: Walk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025687
+    m_Localized: Run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025688
+    m_Localized: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025689
+    m_Localized: Crouch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025690
+    m_Localized: Use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025691
+    m_Localized: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025692
+    m_Localized: Reload
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025693
+    m_Localized: DISPLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025694
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025695
+    m_Localized: Window mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025696
+    m_Localized: GO AHEAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025697
+    m_Localized: CANCEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025698
+    m_Localized: Press any key to continue...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025699
+    m_Localized: ARE YOU SURE YOU WANT TO START NEW GAME?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025700
+    m_Localized: Press
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025701
+    m_Localized: TO INTERACT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025702
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025703
+    m_Localized: Load Last Checkpoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025704
+    m_Localized: Exit to Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025705
+    m_Localized: PREV PAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025706
+    m_Localized: Next Page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025707
+    m_Localized: CLOSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025708
+    m_Localized: WEAPON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025709
+    m_Localized: DAMAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025710
+    m_Localized: RPM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025711
+    m_Localized: RECOIL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025712
+    m_Localized: WEIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025713
+    m_Localized: AMMO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025714
+    m_Localized: Rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025715
+    m_Localized: Pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025716
+    m_Localized: EMP_Launcher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025717
+    m_Localized: HackGun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025718
+    m_Localized: SniperRifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025719
+    m_Localized: An assault rifle once used by humans to fight against AI robots.
+      Its rapid rate of fire makes it highly effective for eliminating enemies quickly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025720
+    m_Localized: 'A standard-issue pistol. Its modular design allows for easy modifications,
+      meaning it can be upgraded into new types of firearms with various parts.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025721
+    m_Localized: A specialized weapon developed to counter AI robots. Fires EMP grenades
+      that, upon detonation, disable enemy robots for 3 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025722
+    m_Localized: 'A unique weapon engineered to fight AI robots. Each bullet is equipped
+      with a chip that can take control of enemy robots. Has a chance to hack and
+      control foes, but if it fails, the robot goes berserk.
+
+
+      - If you hit
+      an enemy affected by an EMP grenade with the hacking gun, the hack is guaranteed
+      to succeed.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025723
+    m_Localized: A powerful firearm crafted by modifying a pistol. Delivers significant
+      damage to enemies from a long distance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025724
+    m_Localized: DECEASED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126071025725
+    m_Localized: Required
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176911861624832
+    m_Localized: 'Prev
+
+      Weapon'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176914520813568
+    m_Localized: 'Next
+
+      Weapon'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176985270333440
+    m_Localized: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177425689030656
+    m_Localized: Are you sure you want to apply the modification to this weapon?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181144010829824
+    m_Localized: Please select a weapon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181145441087488
+    m_Localized: Forge Available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181147085254656
+    m_Localized: Forge Unavailable (Sight, ExtendedMag, Silencer Required)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181148578426880
+    m_Localized: Modifications Unavailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181150121930752
+    m_Localized: Select Available Part
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181151552188416
+    m_Localized: Available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181153267658752
+    m_Localized: Unavailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181156547604480
+    m_Localized: No Part Data Found.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292659791605760
+    m_Localized: Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302760715825152
+    m_Localized: Scope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302762196414464
+    m_Localized: 'A sight that allows you to aim accurately at distant targets.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302779330146304
+    m_Localized: ExtendedMag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302780143841280
+    m_Localized: Allows you to carry more rounds than a standard magazine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303502012919808
+    m_Localized: Reduces vertical recoil by 10% and suppresses muzzle flash.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303501018869760
+    m_Localized: Flame Arrester
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303621114376192
+    m_Localized: Scope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303621768687616
+    m_Localized: A sight that allows you to aim accurately at distant targets.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303728148819968
+    m_Localized: Allows you to carry more rounds than a standard magazine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303727414816768
+    m_Localized: ExtendedMag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303765402628096
+    m_Localized: Scope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303766329569280
+    m_Localized: A sight that allows you to aim accurately at distant targets.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303770452570112
+    m_Localized: A device that reduces the sound of gunfire when attached to a weapon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303768409944064
+    m_Localized: Silencer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304183834783744
+    m_Localized: ExtendedMag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304185537671168
+    m_Localized: Allows you to carry more rounds than a standard magazine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304306367180800
+    m_Localized: Flame Arrester
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304307084406784
+    m_Localized: Reduces vertical recoil by 10% and suppresses muzzle flash.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304313061289984
+    m_Localized: Scope_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304313795293184
+    m_Localized: A sight that allows you to aim accurately at distant targets.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304588413153280
+    m_Localized: Scope_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304589990211584
+    m_Localized: A sight that allows you to aim accurately at distant targets.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304716066795520
+    m_Localized: A device that reduces the sound of gunfire when attached to a weapon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304714502320128
+    m_Localized: Silencer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304873508384768
+    m_Localized: Suppressor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304876595392512
+    m_Localized: Reduces vertical recoil by 20%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321893213876224
+    m_Localized: EnergyBar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322184105635840
+    m_Localized: Medkit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322264283951104
+    m_Localized: NanoAmple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322342222508032
+    m_Localized: Sheild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322785908568064
+    m_Localized: You can't select this item.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322787514986496
+    m_Localized: You can't use this item.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321904429445120
+    m_Localized: Increases stamina.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322186706104320
+    m_Localized: Restores some health.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322264934068224
+    m_Localized: Fully restores health.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322343753428992
+    m_Localized: Restores shield.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588253818990592
+    m_Localized: TO START
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588998026932224
+    m_Localized: 'TIME REMANING:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 590260357246976
+    m_Localized: Equip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 590263947571200
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 590262378901504
+    m_Localized: Unequip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1618931255816192
+    m_Localized: HUD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1619004781965312
+    m_Localized: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1666052940050432
+    m_Localized: Look Sensitivity Horizontal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1666054718435328
+    m_Localized: Look Sensitivity Vertical
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1666072598753280
+    m_Localized: Aim Sensitivity Horizontal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1666074167422976
+    m_Localized: Aim Sensitivity Vertical
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

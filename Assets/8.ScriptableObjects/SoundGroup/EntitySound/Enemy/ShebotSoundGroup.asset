@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c7695c392c1ea64c8ac5e4e80bfb45f, type: 3}
+  m_Name: ShebotSoundGroup
+  m_EditorClassIdentifier: 
+  groupName: Shebot
+  audioClips:
+  - m_AssetGUID: cf78ea20244bfbe41bc5addea70d44ec
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 6834034a0021e244d96d6fe0d560fbd4
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 03ba1ca2188999f40b8d956637c1bb2e
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: f72188538fd5e5f4cb32049fd47dfdc0
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: dc7ef3bcf9ba2bd43ad104eee82a185d
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  - m_AssetGUID: 96cb705f7dd03f34087468616335c469
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

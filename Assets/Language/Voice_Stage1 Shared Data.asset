@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Voice_Stage1 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Voice_Stage1
+  m_TableCollectionNameGuidString: 4a358eeca1ec98c4dbb215567dc4e33d
+  m_Entries:
+  - m_Id: 10081742848
+    m_Key: AI_001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12933869568
+    m_Key: AI_002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93825216512
+    m_Key: AI_003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95964311552
+    m_Key: AI_004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121985773568
+    m_Key: AI_005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124531716096
+    m_Key: AI_006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149676568576
+    m_Key: AI_007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162527916032
+    m_Key: AI_008
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176708857856
+    m_Key: AI_009
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191485390848
+    m_Key: AI_010
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204580007936
+    m_Key: AI_011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217653653504
+    m_Key: AI_012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228483346432
+    m_Key: AI_013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237471739904
+    m_Key: AI_014
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253267488768
+    m_Key: AI_015
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255503052800
+    m_Key: AI_016
+    m_Metadata:
+      m_Items: []
+  - m_Id: 627139358720
+    m_Key: AI_017
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646047281152
+    m_Key: AI_018
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656356880384
+    m_Key: AI_019
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658605027328
+    m_Key: AI_020
+    m_Metadata:
+      m_Items: []
+  - m_Id: 661117415424
+    m_Key: AI_021
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663151652864
+    m_Key: AI_022
+    m_Metadata:
+      m_Items: []
+  - m_Id: 665223639040
+    m_Key: AI_023
+    m_Metadata:
+      m_Items: []
+  - m_Id: 667178184704
+    m_Key: AI_024
+    m_Metadata:
+      m_Items: []
+  - m_Id: 670642679808
+    m_Key: AI_025
+    m_Metadata:
+      m_Items: []
+  - m_Id: 672534310912
+    m_Key: AI_026
+    m_Metadata:
+      m_Items: []
+  - m_Id: 673947791360
+    m_Key: AI_027
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 5259116006397968428
+  m_KeyGenerator:
+    rid: 5259116006397968427
+  references:
+    version: 2
+    RefIds:
+    - rid: 5259116006397968427
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1754523531700
+    - rid: 5259116006397968428
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 10081742848
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 12933869568
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 93825216512
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 95964311552
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 121985773568
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 124531716096
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 149676568576
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 162527916032
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 176708857856
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 191485390848
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 204580007936
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 217653653504
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 228483346432
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 237471739904
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 253267488768
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 255503052800
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 627139358720
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 646047281152
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 656356880384
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 658605027328
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 661117415424
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 665223639040
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 663151652864
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 667178184704
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 670642679808
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 672534310912
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 673947791360
+          m_TableCodes:
+          - en
+          - ko
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

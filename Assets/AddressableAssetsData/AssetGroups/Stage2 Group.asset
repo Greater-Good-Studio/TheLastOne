@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Stage2 Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Stage2 Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e6e7c9a33c8a64248a9951f8fa4b0485
+  m_SerializeEntries:
+  - m_GUID: 1d6761608a82c0a4cb7fccd6979424be
+    m_Address: ShebotSniperStatData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c5ef753dd55cad46bf8277c9fd388d4
+    m_Address: ShebotSwordStatData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61e42ecbe5233824ebe7b23248c93c9a
+    m_Address: ItemBox
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01e22d7cd6356c8448b5801f25dbc2b0
+    m_Address: ShebotSoundGroup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e58a2a3b7584ab40aea16889941fb69
+    m_Address: ShebotRifleStatData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72d0e9a23a1c01e458077f8c8c9d4a1d
+    m_Address: DogStatData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b071f6dfbe199949bb6ec753a344038
+    m_Address: DogSoundgroup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c07f2f6d9c25f3e4d870937228fe8389
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/ToLeft.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 314d4f4902e0eed4faf9c4bd9a1704c1
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/FirstBattle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 423a18cf3517d7e42b27e739ba88b87c
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/Approaching.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9473554a779e98240a7b5a1b60a60f0d
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/Broken_Rail.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 062ab8d5b9530b54f8995d7e1555856c
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/FirstSavePoint.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18bdc7f8f33bb2649b28029b5e1515d4
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/EndPoint.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e59185969a6f8b449d56f651904c680
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/FifthSavePoint.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de68087d5b849414d914ddc3a80945e9
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/Stage2Start.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe47d6adf46b72040a3a8cca25ca543b
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/ToFront.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 363700c545e699b4588fbbf8af0a650c
+    m_Address: SpawnPoints_Stage2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14ff90dd0f73d8c48b08e2ea59a96d0b
+    m_Address: DogSolo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99d228bd021d5ef49a385fabae5940a5
+    m_Address: ShebotSword
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f6a6949e22f75d4dbaf3a11189a2259
+    m_Address: ShebotRifleDuo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5548e77421755848ae4b8b97ab24a86
+    m_Address: ShebotSniper
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50da1b54f60933545ad006f0a6118da6
+    m_Address: ShebotRifle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cc25e79214ebe342b1bb3f38473ee34
+    m_Address: ShebotSwordDogDuo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6cd05ef8ef561b4ea1c1cc757f4365d
+    m_Address: Stage2BGM
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 300d922207930e746abcdacb2fe50b7f
+    m_Address: GarageDoor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efe9431ce7d1dc844ab8c873b0ce3b32
+    m_Address: WeaponPart_Dummy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c231a0a29af68547a7507e277d3927d
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/GarageEnter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2158a025c880e74f9d1b91d818d3291
+    m_Address: Assets/8.ScriptableObjects/Dialogue/Stage2/FirstPartPickup.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Stage2
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7667d1b5b9d9e3342b6122c6f131c22d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f342175afb8f88442942cbca986208da, type: 2}
+    - {fileID: 11400000, guid: 27f9967cca438ab4a8f65f8ea197920c, type: 2}

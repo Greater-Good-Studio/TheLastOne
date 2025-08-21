@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 99c514193e7935146b6a5a3700bb28a9
+  m_SerializeEntries:
+  - m_GUID: 2c0adb2009d527e45a88cbe654354717
+    m_Address: Take1-1_Enemy forces have infiltrated the facility, and dr_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 361d8fb8af21eca48bf9e9222541133d
+    m_Address: Take2-1_Weapons are available in this room. It is recommen_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e2b122214b05e54196bbb431bc18d32
+    m_Address: Take3-1_Available weapons include an assault rifle, EMP gr_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 014ba8ed3ab3d5c4e826d59e48612610
+    m_Address: Take4-1_Prolonged cryosleep has resulted in a significant _2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f58d83bc4addc04f84b1901d6b3dabe
+    m_Address: Take5-1_Locating the nearest nano-heal ampoule. I will gui_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d90e3da973a9114b86c2c27a52fdc87
+    m_Address: Take6-1_The path you need to follow is marked on the facil_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d791fda1e63351d47a371ef784185292
+    m_Address: Take7-1_Disengaging the facility door lockdown. _2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af3614a39b0474449b0a3b7d14882f20
+    m_Address: Take8-1_Hostile entities are currently present within the _2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9f32b53d7ce0be42aea74344ee75465
+    m_Address: Take9-1_Due to power loss, only minimal lighting is being _2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eee1011a1e247374688276ae69ce3c05
+    m_Address: Take10-1_Warning_ Health level has dropped below 10. Please_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df52a4623ddd8f04ea596e1920acbd8a
+    m_Address: Take11-1_Guiding you to the next area. _2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6a5d00141b1c374f976d1b109c0d4e3
+    m_Address: Take12-1_A hackable entity is currently present. The use of_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa547c4ac0327654a905b37cb16e846a
+    m_Address: Take13-1_The external entrance to the facility has been sea_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a237f71e526079e48b16e4e9992f1122
+    m_Address: Take14-1_To lift the external entrance lockdown, you must m_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb7542dd4639e3c4fbb9eed04b2b0f9c
+    m_Address: Take15-1_Warning_ Security protocols have been activated on_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cec55297df780a840a490efdb7625bd9
+    m_Address: Take16-1_Warning_ Multiple enemy signals detected. _2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dc4ca4f37e756447b4c432567b12fbc
+    m_Address: Take17-1_An EMP grenade launcher equipped with EMP rounds i_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20ff7586eea9e2044a3e5833b75088f8
+    m_Address: Take18-1_The lockdown in the storage area has been lifted. _2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 535e32be111044c44bbe4c14295e0fa8
+    m_Address: Take19-1_The outer gate locking mechanism has been disengag_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57ded41b5cda6c74ea00ca1883c37841
+    m_Address: Take20-1_However, to fully open the outer gate, you must ma_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3deb36c7a3d6d41458c84f5d2dd749d4
+    m_Address: Take21-1_Providing route guidance to the storage area. _2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28eaa5ec232cd8f4ead9758a42ba0327
+    m_Address: Take23-1_Multiple hostile entities have been detected in th_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc0b420b5c2f7f0478e130f6a705426d
+    m_Address: Take22-1_The lockdown at the facility entrance has been lif_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b773275795bc8a249b7149509ad1f4f5
+    m_Address: Take24-1_Situation resolved. _2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24b900fc4081e9949b9a1acf623b638f
+    m_Address: Take25-1_Scan complete. No hostile entities detected inside_2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d643b2cb9af47044acdabdc0e9afa73
+    m_Address: "Take26-1_Opening the facility\u2019s outer gate._2025-08-05"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cdd2d692eb6113438eed1adc0b35b18
+    m_Address: Take27-1_Hacking Suceed._2025-08-05
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29a351c39af89e745a511e030abf2362
+    m_Address: Take1-1_According to our scans, we have detected enemy sig_2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 116e027350066a841a86293bff0ef65d
+    m_Address: "Take2-1_However, with my current sensors, I\u2019m unable to pi_2025-08-04"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 004d20ae046d6344fb3e2f9d9e97b99d
+    m_Address: "Take3-1_Based on your current position, there\u2019s a 99% chan_2025-08-04"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 326d6c637a820d74e992b74e6f6a64f2
+    m_Address: Take4-1_Please be prepared for a possible sniper attack._2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb10f311ac534384dadd3c6d1bc1bfab
+    m_Address: Take5-1_The sniper is likely positioned to the left or rig_2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f148de784b9f6304785eae37357f6874
+    m_Address: Take6-1_Multiple enemy signals detected ahead._2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97de8f6250632e84ea2ca67ef183b416
+    m_Address: Take7-1_Prepare for combat._2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5b4aaa18ce992c43b49d58c45540388
+    m_Address: Take8-1_In the latter part of the war between humans and A_2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 574f32edc3e57884e9455b76d1aba1e2
+    m_Address: Take9-1_This city is one of those evacuation sites._2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58243a16ef24330488293e94ce019c6d
+    m_Address: "Take10-1_We don\u2019t enter human cities._2025-08-04"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffccafe7a7e294744b52b764da150772
+    m_Address: Take11-1_ Sharaku keeps human cities as symbols of victory _2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a66156100bab43c48b3e398b98a60852
+    m_Address: Take12-1_Our faction, Luash, sees human cities as reminders_2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02ed21360ca8d0e42b559346e63d2b13
+    m_Address: "Take13-1_There\u2019s no reason to do so, and it\u2019s not efficient_2025-08-04"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8404f6425b3cbd4bb7f6215e249be57
+    m_Address: Take14-1_It would also be irrational._2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3319b054756bcee4081fa0fb98bfe34d
+    m_Address: Take15-1_Enemy signals detected ahead._2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39b0c9fb67341254dab1845004da45ed
+    m_Address: Take16-1_The battlefield up ahead is short and has little c_2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc6e96a38f7bea646a472d442949788e
+    m_Address: Take17-1_On the other hand, if you go left and take the det_2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe4ace9bc31b89c47b4b6a153476d25f
+    m_Address: Take18-1_Understood. I will recalculate your route. That is_2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9db88eddb207164e8496dc374a56430
+    m_Address: "Take19-1_Understood. As expected, I still can\u2019t fully compr_2025-08-04"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f99e2815bdcb9b74ea10451e5bd9b5a6
+    m_Address: Take20-1_Still, I wish you luck._2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f9f552a6f6052f4a9c193e3bff8311c
+    m_Address: Take21-1_Small enemy squad approaching from the front!_2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 269b811c4b7b97842aed6d8681d4ba35
+    m_Address: Take22-1_Small enemy squad approaching from the right!_2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a887f77c7b865474e90df405ba35dc23
+    m_Address: Take23-1_No more enemy signals detected._2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7045ac4b1c3314e4fa68c26613bab483
+    m_Address: Take24-1_Good job, human._2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a06bbaf2766f17d4894276a4940f66ae
+    m_Address: Take25-1_Understood. Well done, Ayla._2025-08-04
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f79f36b6b5147ac4fbe4de0ba46bc12f
+    m_Address: Take6-1_The rail is broken... Can I get down from here__2025-08-03
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 118bee309345bb847afac7c55781e668
+    m_Address: Take9-1_What happened in this city...__2025-08-03
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3779589dd1249004ab49e59369907729
+    m_Address: Take12-1_But there are no signs of battle here, and it seem_2025-08-03
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc9a9ef7bdfc55d47b31a14caaa00b1e
+    m_Address: Take16-1_You could have destroyed them._2025-08-03
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a4a6adc080e4e845b4f7fa376d3e556
+    m_Address: Take29-1_My name is Ayla. Call me by my name from now on._2025-08-03
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a071a276070c0e14782e3397c190df65
+    m_Address: Take31-1_What is this..._  _2025-08-11
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72c5e0dd108c8cb418ba0243db45007e
+    m_Address: "Take29-1_Let\u2019s head to the Weapon Modification Room._2025-08-11"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9af6ebb9982c16449c64e65096bcbd2
+    m_Address: Take31-1_Entering the Garage allows you to upgrade your wea_2025-08-11
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 817a612628a1d6047804f3d733921013
+    m_Address: "Take27-1_It\u2019s a weapon part. If you collect enough, you can_2025-08-11"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b640ac54b57568498e7333707c73e20
+    m_Address: Take26-1_There is an item at the far left after you descend_2025-08-11
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 7667d1b5b9d9e3342b6122c6f131c22d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 21b7ead632cb0404bb74584a209f772b, type: 2}
+    - {fileID: 11400000, guid: 3b3150a7910be5a4da1201d0c81c1a4b, type: 2}

@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a273edb0851a5c4ab08df9b7fb62ce5, type: 3}
+  m_Name: FirstSavePoint
+  m_EditorClassIdentifier: 
+  dialogueKey: 17
+  sequence:
+  - Speaker: Ayla
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 79006740505
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 2
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 284724768768
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Speaker: '[SYSTEM]'
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 79006740486
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 0
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 246145560576
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Speaker: '[SYSTEM]'
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 79006740487
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 0
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 251254222848
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Speaker: Ayla
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 79006740506
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 2
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 515273076736
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Speaker: '[SYSTEM]'
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 79006740488
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 0
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 253284265984
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Speaker: '[SYSTEM]'
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 79006740489
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 0
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 255058456576
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Speaker: '[SYSTEM]'
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 79006740490
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 0
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 256723595264
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Speaker: Ayla
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 79006740507
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 2
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 517013712896
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Speaker: '[SYSTEM]'
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 79006740491
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 0
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 258401316864
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Speaker: '[SYSTEM]'
+    Message:
+      m_TableReference:
+        m_TableCollectionName: GUID:6683f4f20c1ae9641a55a23e055ddf36
+      m_TableEntryReference:
+        m_KeyId: 79006740492
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    SpeakerType: 0
+    voiceClip:
+      m_TableReference:
+        m_TableCollectionName: GUID:c57726f6d46e7dd429fb143548d8b102
+      m_TableEntryReference:
+        m_KeyId: 260066455552
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  references:
+    version: 2
+    RefIds: []
