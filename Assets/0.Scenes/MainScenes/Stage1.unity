@@ -2756,6 +2756,16 @@ PrefabInstance:
       propertyPath: <PostProcessEditForFocus>k__BackingField
       value: 
       objectReference: {fileID: 1256476948}
+    - target: {fileID: 722777656224247020, guid: d1ad11f456aebf14297be286489d8ec9,
+        type: 3}
+      propertyPath: interactableLayers.m_Bits
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 884554410609251424, guid: d1ad11f456aebf14297be286489d8ec9,
+        type: 3}
+      propertyPath: <GroundLayers>k__BackingField.m_Bits
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1566700488586551609, guid: d1ad11f456aebf14297be286489d8ec9,
         type: 3}
       propertyPath: m_IsActive
